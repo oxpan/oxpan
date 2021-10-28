@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Pavel Nesterov
+### Hi there 👋, my name is Pavel
 #### OxPAN
 ![OxPAN](https://pbs.twimg.com/media/FCzFspPXsAgTx_7?format=png&name=small)
 
